@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="Texto_etiqueta_peso">Proporcione el texto en kilogramos:</string>
+    <string name="Texto_etiqueta_estatura">Proporcione la estatura en metros:</string>
+    <string name="Texto_boton_calcular">Calcular</string>
+    <string name="Texto_boton_limpiar">Limpiar</string>
+    <string name="Texto_etiqueta_resultado">El índice de Masa Corporal (IMC) es:</string>
+    <string name="Texto_imc_bajo">Usted está dentro de los valores correspondientes a "bajo peso.</string>
+    <string name="Texto_imc_medio">Usted está dentro de los valores "normales" o de peso saludable.</string>
+    <string name="Texto_imc_alto">Usted está dentro de los valores correspondientes a "sobrepeso".</string>
+
+
+</resources>
